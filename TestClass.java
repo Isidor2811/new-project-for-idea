@@ -5,6 +5,11 @@ public class TestClass {
     }
 
     public static void test(){
-        System.out.println("123");
+        System.out.println("100500");
+    }
+    
+    
+    public void newMethod(){
+        //some code here
     }
 }
