@@ -13,7 +13,7 @@ public class TestClass {
         //some code here
     }
 
-    public void bestMethod14(){
+    public void newMethod11(){
         //some code here
     }
 
