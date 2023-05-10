@@ -1,8 +1,8 @@
 public class Animal {
 
-    public String name;
-    public int age;
-    public double weight;
-    public double height;
+    public String Name;
+    public int Age;
+    public double Weight;
+    public double Height;
 
 }
