@@ -9,15 +9,15 @@ public class TestClass {
     }
     
     
-    public void newMethod(){
+    public void bestMethod13(){
         //some code here
     }
 
-    public void newMethod2(){
+    public void bestMethod14(){
         //some code here
     }
 
-    public void newMethod3(){
+    public void bestMethod15(){
         //some code here
     }
 }
