@@ -1,8 +1,8 @@
 public class Animal {
 
-    public String myName;
-    public int myAge;
-    public double myWeight;
-    public double myHeight;
+    public String myName1;
+    public int myAge2;
+    public double myWeight3;
+    public double myHeight4;
 
 }
