@@ -6,10 +6,6 @@ public class TestClass {
 
     public static void test(){
         System.out.println("100600");
-        System.out.println("100600");
-        System.out.println("100600");
-        System.out.println("100600");
-        System.out.println("100600");
     }
     
     
