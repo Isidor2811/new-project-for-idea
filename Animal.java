@@ -1,6 +1,6 @@
 public class Animal {
 
-    public String nname;
+    public String name;
     public int age;
     public double weight;
     public double height;
@@ -9,7 +9,7 @@ public class Animal {
         System.out.println("Feeding...");
     }
 
-    public void GoForAWalk(){
+    public void goForAWalk(){
         System.out.println("walking...");
     }
 }
