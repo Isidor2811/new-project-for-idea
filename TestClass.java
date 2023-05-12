@@ -11,22 +11,24 @@ public class TestClass {
     
     public void bestMethod13(){
         //some code here
-        System.out.println(10);
+        System.out.println(1);
         if(2>1){
         }
     }
 
     public void newMethod11(){
         //some code here
+        System.out.println(2);
     }
 
     public void bestMethod15(){
         //some code here
+        System.out.println(4);
     }
-    
-    
+
+
     public void sout(){
         //code
     }
-    
+
 }

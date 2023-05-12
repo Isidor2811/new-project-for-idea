@@ -5,4 +5,11 @@ public class Animal {
     public double weight;
     public double height;
 
+    public void feedAnimal(){
+        System.out.println("Feeding...");
+    }
+
+    public void goForAWalk(){
+        System.out.println("walking...");
+    }
 }
