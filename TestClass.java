@@ -12,6 +12,8 @@ public class TestClass {
     public void bestMethod13(){
         //some code here
         System.out.println(1);
+        if(2>1){
+        }
     }
 
     public void newMethod11(){
@@ -23,4 +25,10 @@ public class TestClass {
         //some code here
         System.out.println(4);
     }
+
+
+    public void sout(){
+        //code
+    }
+
 }
