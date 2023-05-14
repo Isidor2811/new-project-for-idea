@@ -6,10 +6,12 @@ public class Animal {
     public double height;
 
     public void feedAnimal(){
-        System.out.println("Feeding...");
+        System.out.println("Feeding...$$");
+        System.out.println("Feeding...$$");
     }
 
     public void goForAWalk(){
-        System.out.println("walking...");
+        System.out.println("walking..$$.");
+        System.out.println("walking...$$");
     }
 }
